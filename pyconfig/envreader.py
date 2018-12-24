@@ -52,4 +52,4 @@ class EnvReader:
             env_file_path = os.path.join(_dir, '.env')
             if os.path.isfile(env_file_path):
                 self.path = env_file_path
-        raise FileNotFoundError('.env file is missing')
+        # raise FileNotFoundError('.env file is missing')
