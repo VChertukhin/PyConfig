@@ -1,4 +1,4 @@
-# QuickConf
+# PyQuickConf
 ## Simple universal configuration tools for python projects
 especially useful for Heroku users
 
